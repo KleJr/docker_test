@@ -46,6 +46,10 @@ entrar no modo mysql command
 
 # docker inspect <nomedocontainer>
 
+# docker start <nomedocontainer>
+
+# docker logs <nomedocontainer>
+
 
 ---------------------
 criar outro container com o NODEJS

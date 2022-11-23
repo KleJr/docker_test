@@ -1,3 +1,9 @@
 FROM node:10-slim
+
 WORKDIR /home/node/app
+
+COPY . .
+
+EXPOSE 3000
+
 CMD npm start
